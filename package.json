@@ -1,0 +1,23 @@
+{
+  "name": "aws-sqs-sns-client",
+  "version": "1.0.0",
+  "description": "aws sns sqs client",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.814.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "AWS",
+    "SNS",
+    "SQS",
+    "nodejs"
+  ]
+}
